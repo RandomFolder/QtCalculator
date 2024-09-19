@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CalcDisplay.qml</file>
+        <file>CalcButtons.qml</file>
+        <file>MainMenu.qml</file>
+        <file>HiddenMenu.qml</file>
+        <file>UpperPanel.qml</file>
+        <file>battery.svg</file>
+        <file>cellular.svg</file>
+        <file>wifi.svg</file>
+        <file>button.svg</file>
+        <file>percent.png</file>
+        <file>bkt.png</file>
+        <file>division.png</file>
+        <file>equal.png</file>
+        <file>minus.png</file>
+        <file>multiplication.png</file>
+        <file>plus.png</file>
+        <file>plus_minus.png</file>
+        <file>dot.svg</file>
+        <file>eight.svg</file>
+        <file>erase.svg</file>
+        <file>five.svg</file>
+        <file>four.svg</file>
+        <file>nine.svg</file>
+        <file>one.svg</file>
+        <file>seven.svg</file>
+        <file>six.svg</file>
+        <file>three.svg</file>
+        <file>two.svg</file>
+        <file>zero.svg</file>
+    </qresource>
+</RCC>
